@@ -1,0 +1,28 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [{
+    "@type": "Question",
+    "name": "Do FAQs in Google Search increase click through rate? ",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "In every page I've monitored, click through rate improves once a FAQ snippet is implemented and displaying in Google search results. However, there are cases when providing an answer in search can reduce click through rate. For example, if people get the answer they need in search results, they may be less likely to visit your page."
+    }
+  }, {
+    "@type": "Question",
+    "name": "Do FAQs in Google Search increase page rankings?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Not directly. However, Google wishes to send people to content which comprehensively covers a topic. FAQs and word count are not ranking factors, but, there's nothing wrong with covering a topic and related questions. In addition, more content may result in more impressions and traffic from long tail search queries."
+    }
+  }, {
+    "@type": "Question",
+    "name": "Why aren't my FAQ rich snippets displaying? ",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "There are many technical difficulties which could prevent rich snippets from displaying in Google's search results, however, if you're not ranking on page 1, you're not going to get FAQ rich snippets to display."
+    }
+  }]
+  }
+</script>
